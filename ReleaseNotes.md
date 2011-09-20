@@ -1,8 +1,9 @@
 # Release notes
 
+## ruby-0.6.0
+
 - Fix ruby crate to use updated defscript invocation syntax
   Update defscript invocations missed in upgrade to pallet 0.5.0.
-
 
 ## pallet-crates-0.5.0
 
@@ -14,7 +15,7 @@
 
 - Update for 0.5.0-SNAPSHOT
   Change pallet.resource.* to pallet.action.*. Change stevedore calls to
-  script functions to use unquote and the pallet.script.lib namespace. 
+  script functions to use unquote and the pallet.script.lib namespace.
   Change request to session.  Change build-resources to build-actions.
 
 
