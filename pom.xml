@@ -3,10 +3,16 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.cloudhoist</groupId>
-    <artifactId>pallet-crates</artifactId>
-    <version>0.5.1-SNAPSHOT</version>
-    <relativePath>..</relativePath>
+    <artifactId>pallet-crate-pom</artifactId>
+    <version>0.6.0</version>
   </parent>
   <artifactId>ruby</artifactId>
-  <version>0.5.1-SNAPSHOT</version>
+  <version>0.6.0-SNAPSHOT</version>
+
+  <scm>
+    <connection>scm:git:git://github.com/pallet/ruby-crate.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/pallet/ruby-crate.git</developerConnection>
+    <url>https://github.com/pallet/ruby-crate</url>
+  </scm>
+
 </project>
