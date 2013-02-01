@@ -2,7 +2,7 @@
 
 This a crate to install and run ruby via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/ruby-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
